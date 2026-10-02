@@ -16,7 +16,8 @@ This project is part of my **60-Day Python Project Challenge**, where I am build
 
 ## 📸 CLI Preview
 
-![CLI Calculator](Screenshot(457).png)
+![Calculator Screenshot](Screenshot%20(457).png)
+
 
 ## ⚙️ Features
 
